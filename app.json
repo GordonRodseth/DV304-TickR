@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "DV304_TickR",
-    "slug": "DV304_TickR",
+    "name": "tickr",
+    "slug": "tickr",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "DV304_TickR"
+  "name": "tickr"
 }

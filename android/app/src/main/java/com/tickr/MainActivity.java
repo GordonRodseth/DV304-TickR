@@ -1,4 +1,4 @@
-package com.dv304tickr;
+package com.tickr;
 
 import android.os.Build;
 import android.os.Bundle;

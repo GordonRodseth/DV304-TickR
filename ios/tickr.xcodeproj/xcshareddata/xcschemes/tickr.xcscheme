@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "DV304TickR.app"
-               BlueprintName = "DV304TickR"
-               ReferencedContainer = "container:DV304TickR.xcodeproj">
+               BuildableName = "tickr.app"
+               BlueprintName = "tickr"
+               ReferencedContainer = "container:tickr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "DV304TickRTests.xctest"
-               BlueprintName = "DV304TickRTests"
-               ReferencedContainer = "container:DV304TickR.xcodeproj">
+               BuildableName = "tickrTests.xctest"
+               BlueprintName = "tickrTests"
+               ReferencedContainer = "container:tickr.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DV304TickR.app"
-            BlueprintName = "DV304TickR"
-            ReferencedContainer = "container:DV304TickR.xcodeproj">
+            BuildableName = "tickr.app"
+            BlueprintName = "tickr"
+            ReferencedContainer = "container:tickr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DV304TickR.app"
-            BlueprintName = "DV304TickR"
-            ReferencedContainer = "container:DV304TickR.xcodeproj">
+            BuildableName = "tickr.app"
+            BlueprintName = "tickr"
+            ReferencedContainer = "container:tickr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
